@@ -1,0 +1,26 @@
+{
+    "name":"Zachary Rehbein",
+    "website": "unavailable",
+    "linkedin": "https://www.linkedin.com/in/zacharyrehbein/",
+    "github": "zrehbein",
+    "email": "zrehbein@gmail.com",
+    "resume": "unavailable",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django"
+    ],
+    "otherSkills": [
+        "Snowboarding",
+        "Cooking",
+        "JiuJitsu",
+        "Kickboxing",
+        "below-average, but highly entusiastic, ARAM HOTS player"
+    ]
+
+}
